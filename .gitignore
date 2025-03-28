@@ -1,1 +1,4 @@
 temp_cofreq.txt
+*.npz
+temp_pmi.npz
+temp_pmi.npz
