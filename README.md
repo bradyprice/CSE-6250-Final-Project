@@ -9,6 +9,7 @@ This project reproduces and extends components of the **SurfCon** paper for syno
 - Hybrid models combining the above
 
 Original paper repo link: https://github.com/yzabc007/SurfCon
+All main text files that contains the mapping, co-frequency counts, and singleton counts are located here: https://datadryad.org/dataset/doi:10.5061/dryad.jp917
 ---
 
 ## Project Structure
@@ -50,7 +51,7 @@ Place the following files in your working directory:
 | `3_term_ID_to_concept_ID.txt`    | Maps term IDs to concept IDs |
 | `singlets_concepts_perBin_1d.txt`| Singleton frequencies of terms |
 | `cofreqs_concepts_perBin_1d.txt` | Term co-occurrence frequencies |
-| `charNgram.txt`                  | Pretrained char n-gram embeddings (download [here](https://github.com/hassyGo/charNgram2vec/releases)|
+| `charNgram.txt`                  | Pretrained char n-gram embeddings (download [here](https://github.com/hassyGo/charNgram2vec/releases))|
 | `glove.6B.50d.txt`               | GloVe word vectors (download [here](https://nlp.stanford.edu/data/glove.6B.zip)) |
 
 ---
