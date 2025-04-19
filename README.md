@@ -1,1 +1,1 @@
-Link to other Github: https://github.com/yzabc007/SurfCon
+Link to original paper Github: https://github.com/yzabc007/SurfCon
